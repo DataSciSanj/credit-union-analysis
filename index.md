@@ -24,4 +24,4 @@ This analysis highlights significant correlations between key credit union metri
 You can view the full analysis and code in the following Jupyter Notebooks hosted on my [GitHub repository](https://github.com/DataSciSanj/credit-union-analysis):
 - [Data Cleaning and Preparation](./credit-union-analysis-1-data-clean-prep.ipynb)
 - [Visualization Exploration](./credit-union-analysis-2-visualization-exploration.ipynb)
-- [Exploratory Data Analysis](./credit-union-analysis-3-eda.ipynb)
+- [Exploratory Data Analysis](./credit-union-analysis-3-eda.md)
