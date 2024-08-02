@@ -6,6 +6,9 @@ This project explores key metrics of credit unions using correlation analysis an
 ## Methodology
 We performed data cleaning, calculated correlation matrices, and visualized the results using heatmaps and other charts.
 
+## Data Source
+The data was sourced from the [NCUA website](https://www.ncua.gov/files/publications/analysis/federally-insured-credit-union-list-march-2024.zip).
+
 ## Results
 The correlation matrix heatmap reveals several strong relationships, such as between Total Assets and Total Loans, and between Members and Total Deposits.
 
@@ -15,4 +18,4 @@ This analysis highlights significant correlations between key credit union metri
 ## Notebooks
 - [Data Cleaning and Preparation](./credit-union-analysis-1-data-clean-prep.ipynb)
 - [Visualization Exploration](./credit-union-analysis-2-visualization-exploration.ipynb)
-- [Exploratory Data Analysis](./credit-union-analysis-3-eda.ipynb)
+- [Exploratory Data Analysis](./credit-union-analysis-3-eda.md)
